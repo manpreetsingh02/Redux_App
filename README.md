@@ -1,23 +1,12 @@
-install global dependencies 
+##install global dependencies
 
+react-scripts and yarn
 
-react-scripts and yarn 
+npm install -g react-scripts && npm install -g yarn 
+##install all modules
 
+yarn install
 
-
-
-install all modules 
-
-
-
-yarn install 
-
-
-
-start project 
-
+###start project
 
 yarn start
-
-
-
